@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "zein",
+      "email": "admin@in.com",
+      "phone": "23434",
+      "role": "admin"
+    },
+    {
+      "id": "f449",
+      "name": "Areej Ramy",
+      "email": "areej.Ramy@gmail.com",
+      "phone": "01019947437",
+      "role": "staff"
+    },
+    {
+      "id": "5129",
+      "name": "Roaya Ramy",
+      "email": "Roaya@gmail.com",
+      "phone": "010292929293",
+      "role": "admin"
+    },
+    {
+      "id": "5642",
+      "name": "BoOB",
+      "email": "fankyeLBooB@gmail.com",
+      "phone": "01019946437",
+      "role": "admin"
+    },
+    {
+      "id": "658c",
+      "name": "Man",
+      "email": "mansho@yahoo.com",
+      "phone": "4529375465",
+      "role": "admin"
+    }
+  ]
+}
